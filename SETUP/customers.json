@@ -1,0 +1,130 @@
+{ 
+    "_id" : ObjectId("5c790fb153fd1b47c081a0da"), 
+    "type" : "1", 
+    "name" : "Hanh NTD", 
+    "email" : "dev.nhozip@gmail.com", 
+    "phone" : "1646867014", 
+    "address" : "Vũ thư", 
+    "createdAt" : ISODate("2019-03-01T10:55:45.605+0000"), 
+    "updatedAt" : ISODate("2019-03-01T10:55:45.605+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c80e17ff58eb443d8704800"), 
+    "name" : "Nhân viên Bán hàng", 
+    "phone" : "08974654", 
+    "email" : "employee@gmail.com", 
+    "type" : "1", 
+    "role" : "employee", 
+    "address" : "HN", 
+    "createdAt" : ISODate("2019-03-07T09:16:47.659+0000"), 
+    "updatedAt" : ISODate("2019-03-07T09:16:47.659+0000"), 
+    "__v" : NumberInt(0), 
+    "password" : "11111111"
+}
+{ 
+    "_id" : ObjectId("5c9b43f13cf46a2eb0fb71ab"), 
+    "name" : "hanh", 
+    "phone" : "454101544", 
+    "email" : "ggdhgd@gmail.com", 
+    "type" : "1", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-03-27T09:35:45.650+0000"), 
+    "updatedAt" : ISODate("2019-03-27T09:35:45.650+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9b45183cf46a2eb0fb71ac"), 
+    "name" : "hanh", 
+    "phone" : "454101544", 
+    "email" : "ggdhgd@gmail.com", 
+    "type" : "1", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-03-27T09:40:40.408+0000"), 
+    "updatedAt" : ISODate("2019-03-27T09:40:40.408+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9b45363cf46a2eb0fb71ad"), 
+    "name" : "hanh", 
+    "phone" : "454101544", 
+    "email" : "ggdhgd@gmail.com", 
+    "type" : "1", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-03-27T09:41:10.300+0000"), 
+    "updatedAt" : ISODate("2019-03-27T09:41:10.300+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9b46e53cf46a2eb0fb71ae"), 
+    "name" : "1", 
+    "phone" : "gfgd", 
+    "email" : "hungkieu.h12@gmail.com", 
+    "type" : "10", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-03-27T09:48:21.843+0000"), 
+    "updatedAt" : ISODate("2019-03-27T09:48:21.843+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9c9690a125980c705d4349"), 
+    "name" : "hanhv 2", 
+    "phone" : "12121231", 
+    "email" : "hungkieu.h12@gmail.com", 
+    "type" : "5", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-03-28T09:40:32.620+0000"), 
+    "updatedAt" : ISODate("2019-03-28T09:40:32.620+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ca1a491c2c7c84078f62c1e"), 
+    "name" : "hungkieu.h12@gmail.com", 
+    "phone" : "1646867014", 
+    "email" : "hungkieu.h12@gmail.com", 
+    "type" : "1", 
+    "role" : "customer", 
+    "address" : "", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-04-01T05:41:37.145+0000"), 
+    "updatedAt" : ISODate("2019-04-01T05:41:37.145+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5cadcf809e9813025c5936a2"), 
+    "name" : "Admin223", 
+    "phone" : "0123154654545", 
+    "email" : "admin@gmail.com", 
+    "type" : "122", 
+    "role" : "admin", 
+    "address" : "HN", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-04-10T11:12:00.269+0000"), 
+    "updatedAt" : ISODate("2019-04-24T10:22:50.164+0000"), 
+    "__v" : NumberInt(0), 
+    "avatar" : "http://localhost:4000/upload/1555658846_65597017bc58fc6.jpg"
+}
+{ 
+    "_id" : ObjectId("5cb981f800d4d043b028a60f"), 
+    "name" : "Nhân viên A", 
+    "avatar" : "", 
+    "phone" : "123456789", 
+    "email" : "nhanvien@gmail.com", 
+    "type" : "0", 
+    "role" : "employee", 
+    "address" : "HN", 
+    "password" : "11111111", 
+    "createdAt" : ISODate("2019-04-19T08:08:24.031+0000"), 
+    "updatedAt" : ISODate("2019-04-19T08:08:24.031+0000"), 
+    "__v" : NumberInt(0)
+}

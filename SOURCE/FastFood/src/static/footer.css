@@ -1,0 +1,88 @@
+footer {
+  padding: 30px 20px;
+  background-color: #efefef;
+}
+footer .limit {
+  max-width: 1300px;
+  margin: 0 auto;
+  font-family: 'Roboto';
+}
+footer .limit .border-bot {
+  border-bottom: 2px solid #b9b9b9;
+}
+footer .limit ul {
+  padding: 0;
+  list-style: none;
+}
+footer .limit ul h6 {
+  font-size: 16px;
+  margin: 0;
+}
+footer .limit ul li {
+  font-size: 14px;
+  padding-bottom: 9px;
+}
+footer .limit ul li a {
+  color: #000;
+  opacity: 1;
+}
+footer .limit ul li a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}
+footer .limit .left-content .address {
+  font-size: 16px;
+  margin-top: 9px;
+}
+footer .limit .left-content .address h6 {
+  display: inline-block;
+}
+footer .limit .description {
+  font-size: 16px;
+}
+footer hr {
+  background: #b9b9b9;
+  margin: 15px 0;
+  height: 1px;
+}
+footer .copyright-text {
+  font-size: 14px;
+  padding: 20px 0;
+}
+#accordion .card {
+  border: none;
+  padding: 0;
+}
+#accordion .card .card-header {
+  background-color: #efefef;
+  padding: 0;
+  cursor: pointer;
+}
+#accordion .card .card-header button, #accordion .card .card-header a {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+#accordion .card .card-header i.fas.fa-angle-down {
+  float: right;
+  margin: 8px;
+}
+#accordion .card .card-body {
+  background: #efefef;
+  padding: 0 0 16px 16px;
+  font-size: 13px;
+}
+#accordion .card .card-body p {
+  margin: 0;
+  padding: 6px 8px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+#accordion .card .card-body p a {
+  color: #000;
+  opacity: 1;
+  cursor: pointer;
+}
+#accordion .card .card-body p a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}

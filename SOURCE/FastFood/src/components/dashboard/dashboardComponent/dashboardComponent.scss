@@ -1,0 +1,62 @@
+.dashboard {
+  background: #f1f1f1;
+  .one,
+  .three,
+  .four,
+  .right {
+    padding: 25px;
+    height: 170px;
+    text-align: center;
+    align-self: center;
+    position: relative;
+    .number {
+      font-size: 35px;
+    }
+    select {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      padding: 5px;
+    }
+  }
+  .one {
+    background: lightgreen;
+  }
+  .two {
+    background: #fb3d3d;
+    color: #fff;
+    padding: 25px 0 0 0;
+    height: 170px;
+    text-align: center;
+    align-self: center;
+    .two-user {
+      font-size: 18px;
+      p {
+        margin: 10px 0;
+      }
+    }
+  }
+  .three {
+    background: lightblue;
+  }
+  .four {
+    background: violet;
+    color: #fff;
+  }
+  .right {
+    margin-top: 16px;
+    background: #fff;
+  }
+  .left {
+    margin-top: 16px;
+    background: #fff;
+    padding: 16px;
+    a {
+      text-decoration: none;
+      color: #000;
+      &:hover {
+        color: #ff4b4a;
+      }
+    }
+  }
+}

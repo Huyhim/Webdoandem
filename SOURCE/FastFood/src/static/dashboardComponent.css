@@ -1,0 +1,59 @@
+.dashboard {
+  background: #f1f1f1;
+}
+.dashboard .one, .dashboard .three, .dashboard .four, .dashboard .right {
+  padding: 25px;
+  height: 170px;
+  text-align: center;
+  align-self: center;
+  position: relative;
+}
+.dashboard .one .number, .dashboard .three .number, .dashboard .four .number, .dashboard .right .number {
+  font-size: 35px;
+}
+.dashboard .one select, .dashboard .three select, .dashboard .four select, .dashboard .right select {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 5px;
+}
+.dashboard .one {
+  background: lightgreen;
+}
+.dashboard .two {
+  background: #fb3d3d;
+  color: #fff;
+  padding: 25px 0 0 0;
+  height: 170px;
+  text-align: center;
+  align-self: center;
+}
+.dashboard .two .two-user {
+  font-size: 18px;
+}
+.dashboard .two .two-user p {
+  margin: 10px 0;
+}
+.dashboard .three {
+  background: lightblue;
+}
+.dashboard .four {
+  background: violet;
+  color: #fff;
+}
+.dashboard .right {
+  margin-top: 16px;
+  background: #fff;
+}
+.dashboard .left {
+  margin-top: 16px;
+  background: #fff;
+  padding: 16px;
+}
+.dashboard .left a {
+  text-decoration: none;
+  color: #000;
+}
+.dashboard .left a:hover {
+  color: #ff4b4a;
+}

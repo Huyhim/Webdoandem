@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("5c681fc8feede50c4437455a"), 
+    "name" : "Đồ ăn", 
+    "key" : "food", 
+    "description" : "Đồ ăn", 
+    "createdAt" : ISODate("2019-02-16T14:35:52.696+0000"), 
+    "updatedAt" : ISODate("2019-02-16T14:35:52.696+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c681fe4feede50c4437455b"), 
+    "name" : "Đồ uống", 
+    "key" : "drink", 
+    "description" : "Đồ uống", 
+    "createdAt" : ISODate("2019-02-16T14:36:20.731+0000"), 
+    "updatedAt" : ISODate("2019-02-16T14:36:20.731+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c681ff3feede50c4437455c"), 
+    "name" : "Combo", 
+    "key" : "combo", 
+    "description" : "combo", 
+    "createdAt" : ISODate("2019-02-16T14:36:35.561+0000"), 
+    "updatedAt" : ISODate("2019-02-16T14:36:35.561+0000"), 
+    "__v" : NumberInt(0)
+}

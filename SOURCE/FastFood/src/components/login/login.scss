@@ -1,0 +1,305 @@
+@media (max-width: 767px) {
+  #login {
+    padding: 0px;
+    position: relative;
+    .head {
+      background-image: url('https://www.lambdatres.com/wp-content/uploads/2017/11/tendencias2018.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 20px 0;
+      position: relative;
+      b {
+        color: #ff4b4a ;
+      }
+    }
+    .pad-login {
+      padding: 10px 20px;
+    }
+    .or {
+      position: relative;
+      &::before,
+      &::after {
+        content: '';
+        width: 300%;
+        height: 1px;
+        display: block;
+        background: #a9a8a8;
+        position: absolute;
+        top: 12px;
+      }
+      &::before {
+        left: 50px;
+      }
+      &::after {
+        right: 50px;
+      }
+    }
+
+    .font {
+      font-size: 13px;
+    }
+  }
+  .btn-login-res {
+    color: #fff;
+    width: 100%;
+    background: #ff4b4a ;
+    &:hover,
+    &:focus {
+      color: #ff4b4a ;
+      background: transparent;
+    }
+  }
+  .dn {
+    padding: 30px 0;
+  }
+}
+@media (min-width: 768px) {
+  #login {
+    background-image: url('https://sifu.unileversolutions.com/image/vi-VN/recipe-topvisual/2/1260-709/tra-sua-50428267.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px;
+    position: relative;
+    min-height: 45vh;
+  }
+  .pad-login {
+    padding: 40px 60px 20px;
+  }
+  .btn-login-res {
+    color: #ff4b4a ;
+    background: transparent;
+    &:hover,
+    &:focus {
+      color: #fff;
+      background: #ff4b4a ;
+    }
+  }
+  .dn {
+    padding: 30px 50px 50px;
+  }
+}
+@media (min-width: 992px) {
+  .pad-login {
+    padding: 40px 60px;
+  }
+}
+
+button {
+  outline: none;
+  &:focus {
+    outline: none;
+  }
+}
+#login {
+  .opa {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+.login {
+  background: #fff;
+  text-align: center;
+  .opa {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+  }
+  h4 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  small {
+    display: inline-block;
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+  .fb,
+  .gg {
+    padding: 0 20px;
+    background: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    height: 45px;
+    line-height: 40px;
+    border-radius: 7px;
+    i {
+      padding-right: 10px;
+      display: inline;
+    }
+  }
+  .fb {
+    border: solid 0.6px #3b5998;
+    color: #3b5998;
+    &:hover,
+    &:focus {
+      box-shadow: 0 0 2px #3b5998;
+    }
+  }
+  .gg {
+    border: solid 0.6px #db4437;
+    color: #db4437;
+    &:hover,
+    &:focus {
+      box-shadow: 0 0 2px #db4437;
+    }
+  }
+  .another {
+    input {
+      padding: 0 10px;
+      height: 45px;
+      border-radius: 7px;
+      border: solid 0.6px #b9b9b9;
+      display: block;
+      margin: 0 auto 20px;
+      width: 100%;
+      &:focus {
+        // outline:
+      }
+    }
+    .error {
+      color: #db4538;
+    }
+  }
+
+  .sign-sv {
+    color: #db4538;
+    padding: 0 5px;
+  }
+  .sign-dn {
+    color: #5871a7;
+  }
+  .forget a {
+    color: #ff4b4a ;
+  }
+  .txt-note {
+    text-align: start;
+    font-size: 15px;
+  }
+}
+.btn-login {
+  cursor: pointer;
+  border: 1px solid #ff4b4a ;
+  padding: 0 25px;
+  height: 45px;
+  border-radius: 7px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 20px auto 30px;
+  display: inherit;
+  outline: none;
+  &:focus {
+    outline: none;
+  }
+}
+#loadPost {
+  margin: 0 auto;
+  border: 4px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 30px;
+  height: 30px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loadPost {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 60px;
+  height: 60px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.dn {
+  .title-signin-dn {
+    width: 100%;
+    padding: 16px;
+    font-weight: bold;
+  }
+  span {
+    display: inline-block;
+    width: 35%;
+    color: #ff4b4a ;
+  }
+  input {
+    width: 60%;
+    margin: 8px 0;
+    padding: 0 10px;
+    height: 45px;
+    border-radius: 7px;
+    border: solid 1px #b9b9b9 !important;
+  }
+  .note {
+    color: #797979;
+    margin: 10px 0;
+    font-size: 15px;
+  }
+  .btn-signin-dn {
+    cursor: pointer;
+    border: 1px solid #ff4b4a ;
+    padding: 0 25px;
+    height: 45px;
+    line-height: 40px;
+    border-radius: 7px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto 16px;
+    display: inherit;
+    outline: none;
+    background: #ff4b4a ;
+    color: #fff;
+    &:hover,
+    &:focus {
+      outline: none;
+      color: #ff4b4a ;
+      background: #fff;
+    }
+  }
+}
+
+//login admin

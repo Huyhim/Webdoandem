@@ -1,0 +1,1365 @@
+{ 
+    "_id" : ObjectId("5ccd029c7ba7dc1384b1fdf1"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://www.sendo.vn/nhip-song/media/camnang/2015/10/banh-ran-Doraemon-Dorayaki-4.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh ran doremon", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh rán Doremon", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:10:20.832+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:10:20.832+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02af7ba7dc1384b1fdf2"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://img.etimg.com/thumb/msid-64897098,width-643,imgsize-427655,resizemode-4/food-eat-junk-burger-pizza-chips-donut-thinkstockphotos-640211994.jpg", 
+        "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/12/Kati-Roll-1600x720.jpg"
+    ], 
+    "topBuy" : NumberInt(4), 
+    "keywords" : [
+        "nước cam ep", 
+        "nuoc cam ep", 
+        "drink"
+    ], 
+    "name" : "Nước cam ép", 
+    "price" : "12000", 
+    "status" : NumberInt(0), 
+    "description" : "Nước cam ép", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:10:39.889+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:10:39.889+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02b97ba7dc1384b1fdf3"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://img.etimg.com/thumb/msid-64897098,width-643,imgsize-427655,resizemode-4/food-eat-junk-burger-pizza-chips-donut-thinkstockphotos-640211994.jpg", 
+        "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/12/Kati-Roll-1600x720.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "dui ga", 
+        "food"
+    ], 
+    "name" : "Đùi gà", 
+    "price" : "12000", 
+    "status" : NumberInt(0), 
+    "description" : "Đùi gà", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:10:49.470+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:10:49.470+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02c27ba7dc1384b1fdf4"), 
+    "type" : [
+        "size M", 
+        "size L"
+    ], 
+    "image" : [
+        "https://monngonsaigon.net/wp-content/uploads/2018/12/cac-mon-sinh-to-ngon.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "da dạng", 
+        "da dang", 
+        "sinh tố", 
+        "sinh to", 
+        "drink"
+    ], 
+    "name" : "Sinh tố", 
+    "price" : "2000", 
+    "status" : NumberInt(1), 
+    "description" : "đa dạng", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:10:58.279+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:47:52.841+0000"), 
+    "__v" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5ccd02cc7ba7dc1384b1fdf5"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://chupanh.vn/wp-content/uploads/2017/04/nghe-thuat-chup-anh-thuc-pham-khong-chi-la-mon-an2.jpg", 
+        "https://chupanh.vn/wp-content/uploads/2017/04/nghe-thuat-chup-anh-thuc-pham-khong-chi-la-mon-an2.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "cơm cuộn", 
+        "com cuon", 
+        "1 suất 2 cai mua bhiều dể nhận ưu dai", 
+        "1 suat 2 cai mua bhieu de nhan uu dai", 
+        "food"
+    ], 
+    "name" : "Cơm cuộn", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "\"1 suất 2 cái. mua bhiều để nhận ưu đãi\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:11:08.583+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:11:08.583+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02e37ba7dc1384b1fdf6"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://image.vietnamnews.vn/uploadvnnews/Article/2018/11/27/Denda-417463855PM.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "cafe den da", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Cafe đen đá", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:11:31.645+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:46:38.805+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02ea7ba7dc1384b1fdf7"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://vietnambiz.vn/stores/news_dataimages/linhnn/052018/30/18/5701_Kazan_11.jpg", 
+        "https://vietnambiz.vn/stores/news_dataimages/linhnn/052018/30/18/5701_Kazan_11.jpg", 
+        "http://vandinh.vn/product_images/t/cac_mon_trung__34446_std.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "hoa quả thập cẩm", 
+        "hoa qua thap cam", 
+        "", 
+        "food"
+    ], 
+    "name" : "Hoa quả thập cẩm", 
+    "price" : "30000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:11:38.949+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:11:38.949+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd02fa7ba7dc1384b1fdf8"), 
+    "type" : [
+        "trân châu trắng", 
+        "trân châu đen"
+    ], 
+    "image" : [
+        "http://sohanews.sohacdn.com/2017/photo-1-1510561177365.jpg", 
+        "https://d303ny97lru840.cloudfront.net/k-57bd1aa7047c994a15e41aca/20180614-hoangvm14_0613/1444185153_thuc-uong-tra-suap.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "tra sữa", 
+        "tra sua", 
+        "tra sữa ngon mat với chan chau nguồn gốc hoan toan tự nhien thật tuyệt cho một ngay trời nắng nong hay những buổi tụ tập bạn be vui vẻ con chờ gi nữa ma khong dặt hang", 
+        "tra sua ngon mat voi chan chau nguon goc hoan toan tu nhien that tuyet cho mot ngay troi nang nong hay nhung buoi tu tap ban be vui ve con cho gi nua ma khong dat hang", 
+        "drink"
+    ], 
+    "name" : "Trà sữa", 
+    "price" : "45000", 
+    "status" : NumberInt(0), 
+    "description" : "Trà sữa ngon mát với chân châu nguồn gốc hoàn toàn tự nhiên...\nThật tuyệt cho một ngày trời nắng nóng hay những buổi tụ tập bạn bè vui vẻ\nCòn chờ gì nữa mà không đặt hàng ^^", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:11:54.463+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:11:54.463+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03017ba7dc1384b1fdf9"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://blog.beemart.vn/wp-content/uploads/2016/05/cach-lam-nuoc-siro-dau-tam-vo-cung-don-gian-thanh-mat-12.jpg"
+    ], 
+    "topBuy" : NumberInt(3), 
+    "keywords" : [
+        "siro dau tằm", 
+        "siro dau tam", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Siro dâu tằm", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:01.471+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:01.471+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd030f7ba7dc1384b1fdfa"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media.cooky.vn/recipe/g3/26407/s800x500/recipe-cover-r26407.png"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "khoai chien", 
+        "", 
+        "food"
+    ], 
+    "name" : "Khoai chiên", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:12:15.926+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:46:29.089+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03137ba7dc1384b1fdfb"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media.cooky.vn/recipe/g3/24711/s800x500/recipe-cover-r24711.jpg", 
+        "http://imgs.vietnamnet.vn/Images/2016/11/30/09/20161130095859-2.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "tra thai", 
+        "tra thai tự lam an toan tự nhien tra dược nhập từ thai nguyen co giấy tờ nguồn gốc ro rang", 
+        "tra thai tu lam an toan tu nhien tra duoc nhap tu thai nguyen co giay to nguon goc ro rang", 
+        "drink"
+    ], 
+    "name" : "Trà thái", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "Trà thái tự làm. an toàn, tự nhiên\nTrà được nhập từ Thái Nguyên, có giấy tờ nguồn gốc rõ ràng.", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:19.612+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:19.612+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd031e7ba7dc1384b1fdfc"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://cdn02.static-adayroi.com/0/2016/12/16/1481872380991_5169575.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "o mai xi muội", 
+        "o mai xi muoi", 
+        "chỉ với 45 k bạn da co một hộp o mai xi muội 200 g ngọt tuyệt", 
+        "chi voi 45 k ban da co mot hop o mai xi muoi 200 g ngot tuyet", 
+        "food"
+    ], 
+    "name" : "Ô mai xí muội", 
+    "price" : "45000", 
+    "status" : NumberInt(0), 
+    "description" : "Chỉ với 45k bạn đã có một hộp ô mai xí muội 200g ngọt tuyệt", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:30.131+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:30.131+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03257ba7dc1384b1fdfd"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://static.hotdeal.vn/images/603/602868/500x500/121125-2-hop-o-mai-pho-co-1-mo-nho-gung-va-1-sau-xao.jpg"
+    ], 
+    "topBuy" : NumberInt(1), 
+    "keywords" : [
+        "o mai mơ nho vang", 
+        "o mai mo nho vang", 
+        "chỉ với 45 k bạn da co một hộp o mai mơ nho vang 200 g ngọt tuyệt", 
+        "chi voi 45 k ban da co mot hop o mai mo nho vang 200 g ngot tuyet", 
+        "food"
+    ], 
+    "name" : "Ô mai mơ nho vàng", 
+    "price" : "45000", 
+    "status" : NumberInt(0), 
+    "description" : "Chỉ với 45k bạn đã có một hộp ô mai mơ nho vàng 200g ngọt tuyệt", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:37.149+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:37.149+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd032c7ba7dc1384b1fdfe"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://baogialai.com.vn/dataimages/201706/original/images2544254_nuoc_dua_2_USPV.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "nước dừa", 
+        "nuoc dua", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Nước dừa", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:44.630+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:44.630+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03347ba7dc1384b1fdff"), 
+    "type" : [
+        "size M", 
+        "size L"
+    ], 
+    "image" : [
+        "http://localhost:4000/upload/1555169214_career3.jpg", 
+        "https://jarvis.vn/uploaded/cach-lam-hong-tra-dao.jpg", 
+        "https://tea-4.lozi.vn/v1/images/resized/hong-tra-tran-chau-173012-1466605784?w=480&type=o"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "hồng tra", 
+        "hong tra", 
+        "hồng tra tươi ngon", 
+        "hong tra tuoi ngon", 
+        "drink"
+    ], 
+    "name" : "Hồng trà", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "hồng tra tươi ngon", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:12:52.849+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:12:52.849+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03437ba7dc1384b1fe00"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://images.foody.vn/res/g72/711970/prof/s576x330/foody-mobile-hmn-jpg.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "cafe sữa", 
+        "cafe sua", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Cafe sữa", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:13:07.878+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:46:20.111+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd034a7ba7dc1384b1fe01"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://www.sclance.com/pngs/coca-cola-png/coca_cola_png_295299.png"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "coca cola", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Coca cola", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:13:14.754+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:46:08.887+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03517ba7dc1384b1fe02"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://chauolong.com/wp-content/uploads/2016/12/matcha-trasua.jpg", 
+        "http://trasuamatcha.vn/uploaded/2016/12/1.%20matcha-tra-sua-khoe-dep%20%281%29.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "tra matcha", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Trà matcha", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "drink", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:13:21.383+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:13:21.383+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03577ba7dc1384b1fe03"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://afamilycdn.com/lz22gR5gAUy5ERF6knDuUrImpNtM4c/Image/2012/06/070612afamilyDLquavat03_25b81.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh bao thịt", 
+        "banh bao thit", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh bao thịt", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:13:27.823+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:13:27.823+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd035d7ba7dc1384b1fe04"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://www.savourydays.com/wp-content/uploads/2016/11/c%C3%A1ch-l%C3%A0m-b%C3%A1nh-r%C3%A1n-l%C3%BAc-l%E1%BA%AFc-banner.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh ran", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh rán", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:13:33.715+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:13:33.715+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd03647ba7dc1384b1fe05"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://image-us.eva.vn/upload/3-2018/images/2018-07-12/cach-lam-banh-cuon-trang-chao-thit-xay-banh-cuon-trang-chao-9-1531380624-126-width650height488.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh cuốn", 
+        "banh cuon", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh cuốn", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "\"\"", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:13:40.133+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:13:40.133+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd036b7ba7dc1384b1fe06"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media.cooky.vn/recipe/g3/22814/s800x500/recipe-cover-r22814.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh bọt lọc", 
+        "banh bot loc", 
+        "food", 
+        ""
+    ], 
+    "name" : "Bánh bọt lọc", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T03:13:47.047+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:45:50.821+0000"), 
+    "__v" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5ccd03797ba7dc1384b1fe08"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://www.sendo.vn/nhip-song/media/camnang/2015/10/banh-ran-Doraemon-Dorayaki-4.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh ran doremon", 
+        "food", 
+        ""
+    ], 
+    "name" : "Bánh rán Doremon", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T03:14:01.138+0000"), 
+    "updatedAt" : ISODate("2019-05-04T05:44:02.113+0000"), 
+    "__v" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5ccd200f9729c523dcc72fd7"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://danang.huongnghiepaau.com/images/hocnauanngon/cach-lam-mon-bo-kho-soi.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "bo kho", 
+        "chỉ với 15000 d bạn da co một dịa bo kho ngon tuyệt them chut chanh tạo nen hương vị cay cay chua chua", 
+        "chi voi 15000 d ban da co mot dia bo kho ngon tuyet them chut chanh tao nen huong vi cay cay chua chua", 
+        "food"
+    ], 
+    "name" : "Bò khô", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "chỉ với 15000đ bạn đã có một địa bò khô ngon tuyệt! Thêm chút chanh tạo nên hương vị cay cay chua chua ...", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T05:15:59.921+0000"), 
+    "updatedAt" : ISODate("2019-05-04T05:15:59.921+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd2691255cbd2820077efe"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://localhost:4000/upload/1556948611_56591108_155218412158425_1646132054247460626_n.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "kho ga", 
+        "chỉ với 25000 d bạn da co một dia kho kho ngon tuyệt them chut chanh tạo nen hương vị cay cay chua chua", 
+        "chi voi 25000 d ban da co mot dia kho kho ngon tuyet them chut chanh tao nen huong vi cay cay chua chua", 
+        "food"
+    ], 
+    "name" : "Khô gà", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "Chỉ với 25000đ bạn đã có một đĩa khô khô ngon tuyệt! Thêm chút chanh tạo nên hương vị cay cay chua chua ...", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T05:43:45.500+0000"), 
+    "updatedAt" : ISODate("2019-05-04T05:43:45.500+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3b6e1911cf27d4f3bc5f"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://icofood.store/wp-content/uploads/2019/01/kho-heo-chay-toi.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "kho heo chay tỏi 100 g", 
+        "kho heo chay toi 100 g", 
+        "", 
+        "food"
+    ], 
+    "name" : "Khô heo cháy tỏi (100g)", 
+    "price" : "24000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:12:46.852+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:12:46.852+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3ba51911cf27d4f3bc60"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://icofood.store/wp-content/uploads/2018/12/mojito.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "mojito truyền thống", 
+        "mojito truyen thong", 
+        "mojito la một loại cocktail xuất phat từ cuba nhưng dến nay mojito da trở nen rất phổ biến tren thế giới bởi chinh sự dơn giản tiện lợi nhưng hương vị thi vo cung tuyệt vời nếu bạn yeu thich hương vị the nồng của bạc ha dộ chua của chanh va hương vị tươi mat thi hay thử oder va thử ngay nhe hiện co 3 vị dặc trưng nhất của mojito vị việt quất vị dau va vị bạc ha truyền thống", 
+        "mojito la mot loai cocktail xuat phat tu cuba nhung den nay mojito da tro nen rat pho bien tren the gioi boi chinh su don gian tien loi nhung huong vi thi vo cung tuyet voi neu ban yeu thich huong vi the nong cua bac ha do chua cua chanh va huong vi tuoi mat thi hay thu oder va thu ngay nhe hien co 3 vi dac trung nhat cua mojito vi viet quat vi dau va vi bac ha truyen thong", 
+        "drink"
+    ], 
+    "name" : "Mojito truyền thống", 
+    "price" : "22000", 
+    "status" : NumberInt(0), 
+    "description" : "Mojito là một loại Cocktail xuất phát từ Cuba nhưng đến nay Mojito đã trở nên rất phổ biến trên thế giới bởi chính sự đơn giản, tiện lợi nhưng hương vị thì vô cùng tuyệt vời. Nếu bạn yêu thích hương vị the nồng của bạc hà, độ chua của chanh và hương vị tươi mát thì hãy thử oder và thử ngay nhé!\n\nHiện có 3 vị đặc trưng nhất của Mojito: Vị việt quất, vị dâu và vị bạc hà truyền thống.", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:13:41.118+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:13:41.118+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3cef1911cf27d4f3bc61"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://images.foody.vn/res/g10/94378/prof/s576x330/foody-mobile-btt-jpg-854-635852506832133881.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh trang trộn", 
+        "banh trang tron", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh tráng trộn", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:19:11.874+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:19:11.874+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3d1e1911cf27d4f3bc62"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://nauzi.com/caches/large/cover/6573/chuan-ca-huong-sac-vi-voi-goi-xoai-tom-kho-chua-ngot-6056cfd27cca925bace5d8c284402343.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "gỏi xoai", 
+        "goi xoai", 
+        "", 
+        "food"
+    ], 
+    "name" : "Gỏi xoài", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(0), 
+    "createdAt" : ISODate("2019-05-04T07:19:58.388+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:19:58.388+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3d4f1911cf27d4f3bc63"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://i.ytimg.com/vi/MaZ1d1Et2-k/hqdefault.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "xoi mit", 
+        "", 
+        "food"
+    ], 
+    "name" : "Xôi mít", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:20:47.068+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:20:47.068+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3db21911cf27d4f3bc64"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://images.foody.vn/res/g63/628639/s/foody-ga-bo-xoi-628639-430-636202096770562508.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "ga bo xoi mini", 
+        "", 
+        "food"
+    ], 
+    "name" : "Gà bó xôi mini", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:22:26.495+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:22:26.495+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3e121911cf27d4f3bc65"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://scm-assets.constant.co/scm/unilever/a6798e909fa57bfd19c3e7f00737e5d6/3905c3ca-155c-4227-ae0e-6db615ae7856.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "sandwich", 
+        "", 
+        "food"
+    ], 
+    "name" : "SANDWICH", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:24:02.913+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:24:02.913+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3e3d1911cf27d4f3bc66"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://daylambanh.edu.vn/images/congthuclambanh/banh-mi-xiu-mai-thom-ngon.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh mi xiu mại", 
+        "banh mi xiu mai", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh mì xíu mại", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:24:45.959+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:24:45.959+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3e751911cf27d4f3bc67"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://hd1.hotdeal.vn/images/uploads/2015/08/21/173362/173362-banh-mi-chao-Nga-ba-Quan_body_1%20%281%29.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh mi ap chảo", 
+        "banh mi ap chao", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh mì áp chảo", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:25:41.035+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:25:41.035+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3eb21911cf27d4f3bc68"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://blog.beemart.vn/wp-content/uploads/2018/06/1-01-1-1024x506.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh mi cay", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh mì cay", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:26:42.413+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:26:42.413+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3ee11911cf27d4f3bc69"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://thietbibanhtung.com/wp-content/uploads/2017/12/lo-nuong-banh-mi-cong-nghiep-gia-bao-nhieu.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "banh mi big c", 
+        "", 
+        "food"
+    ], 
+    "name" : "Bánh mì Big C", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:27:29.448+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:27:29.448+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3f021911cf27d4f3bc6a"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media.cooky.vn/recipe/g1/1742/s800x500/recipe1742-635695565410737062.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "xoi xeo", 
+        "", 
+        "food"
+    ], 
+    "name" : "Xôi xéo", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:28:02.300+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:28:02.300+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3f191911cf27d4f3bc6b"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://images.foody.vn/res/g17/163116/prof/s576x330/foody-mobile-xoi-thit1-jpg-474-635762002516602712.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "xoi thịt", 
+        "xoi thit", 
+        "", 
+        "food"
+    ], 
+    "name" : "Xôi thịt", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:28:25.321+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:28:25.321+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3f3a1911cf27d4f3bc6c"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://image-us.24h.com.vn/upload/4-2018/images/2018-11-03/an-trung-vit-lon-theo-cach-nay-se-cuc-ky-nguy-hiem-1-1541219049-776-width665height449.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "trứng vịt lộn", 
+        "trung vit lon", 
+        "", 
+        "food"
+    ], 
+    "name" : "Trứng vịt lộn", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:28:58.578+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:28:58.578+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3f691911cf27d4f3bc6d"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://photo-3-baomoi.zadn.vn/w1000_r1/2018_05_14_207_26021318/4819c492ced3278d7ec2.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "trứng lộn cut", 
+        "trung lon cut", 
+        "10 quả trứng lộn cut non", 
+        "10 qua trung lon cut non", 
+        "food"
+    ], 
+    "name" : "Trứng lộn cút", 
+    "price" : "25000", 
+    "status" : NumberInt(0), 
+    "description" : "10 quả trứng lộn cút non", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:29:45.053+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:29:45.053+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3fca1911cf27d4f3bc6e"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://i.ytimg.com/vi/v7xu4inGczw/hqdefault.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "sữa chua nếp cẩm", 
+        "sua chua nep cam", 
+        "10 quả trứng lộn cut non", 
+        "10 qua trung lon cut non", 
+        "food"
+    ], 
+    "name" : "Sữa chua nếp cẩm", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:31:22.041+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:31:22.041+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd3fe51911cf27d4f3bc6f"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "http://www.monngon.tv/uploads/images/2017/05/30/36b8fafcb78c740a3cf7e1f8371a20ee-cach-lam-sua-chua-mit-sl.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "sữa chua mit", 
+        "sua chua mit", 
+        "10 quả trứng lộn cut non", 
+        "10 qua trung lon cut non", 
+        "food"
+    ], 
+    "name" : "Sữa chua mít", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:31:49.020+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:31:49.020+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd40351911cf27d4f3bc70"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://giadinh.tv/wp-content/uploads/2018/10/caramen-thap-cam-1.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "caramen thập cẩm", 
+        "caramen thap cam", 
+        "nếu bạn muốn caramen chỉ mit hay chỉ nếp cẩm dể lại lời nhắn khi dặt hang", 
+        "neu ban muon caramen chi mit hay chi nep cam de lai loi nhan khi dat hang", 
+        "food"
+    ], 
+    "name" : "Caramen thập cẩm", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "Nếu bạn muốn caramen chỉ mít hay chỉ nếp cẩm để lại lời nhắn khi đặt hàng", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:33:09.450+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:33:09.450+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd40751911cf27d4f3bc71"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://daynauan.info.vn/images/mon-han/my-tuong-den-han-quoc.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "mi tương den", 
+        "mi tuong den", 
+        "", 
+        "food"
+    ], 
+    "name" : "Mì tương đen", 
+    "price" : "35000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:34:13.991+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:34:13.991+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd40dd1911cf27d4f3bc72"), 
+    "type" : [
+        "nướng mật ong", 
+        "nướng không", 
+        "nướng bột than", 
+        "nướng sốt cay"
+    ], 
+    "image" : [
+        "https://media.cooky.vn/recipe/g3/27608/s800x500/recipe-cover-r27608.JPG"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "chan ga nướng", 
+        "chan ga nuong", 
+        "", 
+        "food"
+    ], 
+    "name" : "Chân gà nướng", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:35:57.316+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:35:57.316+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd41141911cf27d4f3bc73"), 
+    "type" : [
+        "nướng", 
+        "rán"
+    ], 
+    "image" : [
+        "https://yeunoitro.net/wp-content/uploads/2018/10/cach-chien-lap-xuong-tuoi-5-300x172.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "lạp xưởng", 
+        "lap xuong", 
+        "", 
+        "food"
+    ], 
+    "name" : "Lạp xưởng", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:36:52.273+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:36:52.273+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd41341911cf27d4f3bc74"), 
+    "type" : [
+        "nướng", 
+        "rán"
+    ], 
+    "image" : [
+        "https://cdn02.static-adayroi.com/0/2016/10/11/1476156116977_2126572.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "xuc xich", 
+        "", 
+        "food"
+    ], 
+    "name" : "Xúc xích", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:37:24.116+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:37:24.116+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd41eb1911cf27d4f3bc76"), 
+    "type" : [
+        "Hương xá xị", 
+        "Hương cam", 
+        "Vị soda"
+    ], 
+    "image" : [
+        "https://tea-1.lozi.vn/v1/images/resized/mirinda-xanh-185k-1495963159-1-2557978-1495963219?w=1200&type=f", 
+        "https://media-ak.static-adayroi.com/sys_master/he0/hec/9493354512414.jpg", 
+        "http://kakafastfood.com/wp-content/uploads/2017/06/72.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "nước mirinda", 
+        "nuoc mirinda", 
+        "", 
+        "food"
+    ], 
+    "name" : "Nước Mirinda", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T07:40:27.005+0000"), 
+    "updatedAt" : ISODate("2019-05-04T07:40:27.005+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd46fb9c671c368871c08e"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://img.etimg.com/thumb/msid-64897098,width-643,imgsize-427655,resizemode-4/food-eat-junk-burger-pizza-chips-donut-thinkstockphotos-640211994.jpg", 
+        "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/12/Kati-Roll-1600x720.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "nước cam ep", 
+        "nuoc cam ep", 
+        "", 
+        "drink"
+    ], 
+    "name" : "Nước cam ép", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "drink", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:02:03.108+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:02:03.108+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd47379c671c368871c08f"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://img.etimg.com/thumb/msid-64897098,width-643,imgsize-427655,resizemode-4/food-eat-junk-burger-pizza-chips-donut-thinkstockphotos-640211994.jpg", 
+        "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/12/Kati-Roll-1600x720.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "dui ga", 
+        "", 
+        "food"
+    ], 
+    "name" : "Đùi gà", 
+    "price" : "15000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:03:03.847+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:03:03.847+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd50468f53c43328c9c5eb"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://thucthan.com/media/cach-lam-khoai-lang-ken/cach-lam-khoai-lang-ken.png"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "khoai lang ken", 
+        "", 
+        "food"
+    ], 
+    "name" : "Khoai lang kén", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:41:42.292+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:41:42.292+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd50828f53c43328c9c5ec"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media.ex-cdn.com/EXP/media.phunutoday.vn/files/upload_images/2015/03/25/khoai-lang-chien.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "khoai lang chien", 
+        "", 
+        "food"
+    ], 
+    "name" : "Khoai lang chiên", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:42:42.651+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:42:42.651+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd50958f53c43328c9c5ed"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://image.anninhthudo.vn/w700/uploaded/91/2018_05_15/antd-khoai_tay_chien_bi.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "khoai lang chien", 
+        "", 
+        "food"
+    ], 
+    "name" : "Khoai lang chiên", 
+    "price" : "20000", 
+    "status" : NumberInt(0), 
+    "description" : "", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:43:01.556+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:43:01.556+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd50eb8f53c43328c9c5ee"), 
+    "type" : [
+
+    ], 
+    "image" : [
+        "https://media-ak.static-adayroi.com/sys_master/h61/hd0/9507611082782.jpg", 
+        "https://media.ex-cdn.com/EXP/media.phunutoday.vn/files/upload_images/2015/01/20/ran-phong-tom-ngon-1.jpg"
+    ], 
+    "topBuy" : NumberInt(0), 
+    "keywords" : [
+        "phong tom goi", 
+        "10 k một goi phồng tom cho một bữa tam cung bạn be", 
+        "10 k mot goi phong tom cho mot bua tam cung ban be", 
+        "food"
+    ], 
+    "name" : "Phông tôm gói", 
+    "price" : "10000", 
+    "status" : NumberInt(0), 
+    "description" : "10k một gói phồng tôm cho một bữa tám cùng bạn bè", 
+    "category" : "food", 
+    "highlight" : NumberInt(1), 
+    "createdAt" : ISODate("2019-05-04T08:44:27.640+0000"), 
+    "updatedAt" : ISODate("2019-05-04T08:44:27.640+0000"), 
+    "__v" : NumberInt(0)
+}

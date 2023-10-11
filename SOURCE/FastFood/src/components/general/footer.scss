@@ -1,0 +1,95 @@
+footer {
+  padding: 30px 20px;
+  background-color: #efefef;
+  .limit {
+    max-width: 1300px;
+    margin: 0 auto;
+    font-family: 'Roboto';
+    .border-bot {
+      border-bottom: 2px solid #b9b9b9;
+    }
+    ul {
+      padding: 0;
+      list-style: none;
+      h6 {
+        font-size: 16px;
+        margin: 0;
+      }
+      li {
+        font-size: 14px;
+        padding-bottom: 9px;
+        a {
+          color: #000;
+          opacity: 1;
+          &:hover {
+            text-decoration: none;
+            opacity: 0.8;
+          }
+        }
+      }
+    }
+    .left-content {
+      .address {
+        font-size: 16px;
+        margin-top: 9px;
+        h6 {
+          display: inline-block;
+        }
+      }
+    }
+    .description {
+      font-size: 16px;
+    }
+  }
+  hr {
+    background: #b9b9b9;
+    margin: 15px 0;
+    height: 1px;
+  }
+  .copyright-text {
+    // color: #20a286;
+    font-size: 14px;
+    padding: 20px 0;
+  }
+}
+#accordion {
+  .card {
+    border: none;
+    padding: 0;
+    .card-header {
+      background-color: #efefef;
+      padding: 0;
+      cursor: pointer;
+      button,
+      a {
+        text-decoration: none;
+        color: #000;
+        font-size: 14px;
+      }
+      i.fas.fa-angle-down {
+        float: right;
+        margin: 8px;
+      }
+    }
+
+    .card-body {
+      background: #efefef;
+      padding: 0 0 16px 16px;
+      font-size: 13px;
+      p {
+        margin: 0;
+        padding: 6px 8px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        a {
+          color: #000;
+          opacity: 1;
+          cursor: pointer;
+          &:hover {
+            text-decoration: none;
+            opacity: 0.8;
+          }
+        }
+      }
+    }
+  }
+}

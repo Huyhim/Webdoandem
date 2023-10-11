@@ -1,0 +1,34 @@
+.banner .btn-search:hover {
+  background: #f92827;
+}
+.product-item-home {
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: all ease 1s;
+}
+.product-item-home .product-item-cover {
+  background: rgba(0, 0, 0, 0.5);
+}
+.product-item-home .product-item-cover img {
+  transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  width: 100%;
+  height: 100%;
+  opacity: 0.9;
+}
+.product-item-home .product-item-txt {
+  position: absolute;
+  bottom: 0;
+}
+.product-item-home .product-item-txt button {
+  background-color: transparent;
+}
+.product-item-home:hover .product-item-cover img {
+  transform: scale(1.1, 1.1);
+}
+ul a {
+  color: #000;
+}
+ul a:hover {
+  color: #ff4b4a;
+}

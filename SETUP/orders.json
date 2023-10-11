@@ -1,0 +1,541 @@
+{ 
+    "_id" : ObjectId("5ccd04fd7ba7dc1384b1fe10"), 
+    "products" : [
+        {
+            "id" : "5c75fee54a1c88113c93a543", 
+            "name" : "Siro dâu tằm", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://blog.beemart.vn/wp-content/uploads/2016/05/cach-lam-nuoc-siro-dau-tam-vo-cung-don-gian-thanh-mat-12.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:07:17.739Z", 
+            "updatedAt" : "2019-02-27T03:13:32.433Z", 
+            "amount" : NumberInt(1)
+        }, 
+        {
+            "id" : "5c76034e4a1c88113c93a548", 
+            "name" : "Nước dừa", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "http://baogialai.com.vn/dataimages/201706/original/images2544254_nuoc_dua_2_USPV.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:26:06.881Z", 
+            "updatedAt" : "2019-02-27T03:26:06.881Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb236e1dfa4791d1ce2a553"), 
+            "name" : "", 
+            "status" : NumberInt(0), 
+            "time" : "1555183329"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb236e1dfa4791d1ce2a554"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555183329"
+        }
+    ], 
+    "message" : "ewreter", 
+    "user" : {
+        "name" : "abc", 
+        "phone" : "1646867014", 
+        "address" : "Vũ thư", 
+        "email" : "tathimyhanh03@gmail.com", 
+        "role" : "customer", 
+        "message" : ""
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:20:29.405+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:20:29.405+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05117ba7dc1384b1fe13"), 
+    "products" : [
+        {
+            "id" : "5c75ff684a1c88113c93a544", 
+            "name" : "Trà thái", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://media.cooky.vn/recipe/g3/24711/s800x500/recipe-cover-r24711.jpg", 
+                "http://imgs.vietnamnet.vn/Images/2016/11/30/09/20161130095859-2.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "Trà thái tự làm. an toàn, tự nhiên\nTrà được nhập từ Thái Nguyên, có giấy tờ nguồn gốc rõ ràng.", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:09:28.282Z", 
+            "updatedAt" : "2019-02-27T03:13:19.517Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb24081dfa4791d1ce2a556"), 
+            "name" : "", 
+            "status" : NumberInt(1), 
+            "time" : "1555346780"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb24081dfa4791d1ce2a557"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555185793"
+        }, 
+        {
+            "_id" : ObjectId("5cb4b5635711a043e4c32edb"), 
+            "name" : "", 
+            "time" : "1555346786", 
+            "status" : NumberInt(0)
+        }
+    ], 
+    "idUser" : "5ccd03d77ba7dc1384b1fe09", 
+    "user" : {
+        "id" : "5cadcf809e9813025c5936a2", 
+        "name" : "Admin", 
+        "phone" : "1646867014", 
+        "email" : "admin@gmail.com", 
+        "type" : "11", 
+        "role" : "admin", 
+        "address" : "Vũ thư", 
+        "password" : "11111111", 
+        "createdAt" : "2019-04-10T11:12:00.269Z", 
+        "updatedAt" : "2019-04-10T11:12:00.269Z"
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:20:49.663+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:20:49.663+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05357ba7dc1384b1fe17"), 
+    "products" : [
+        {
+            "id" : "5c76034e4a1c88113c93a548", 
+            "name" : "Nước dừa", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "http://baogialai.com.vn/dataimages/201706/original/images2544254_nuoc_dua_2_USPV.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:26:06.881Z", 
+            "updatedAt" : "2019-02-27T03:26:06.881Z", 
+            "amount" : NumberInt(1)
+        }, 
+        {
+            "id" : "5c75ff684a1c88113c93a544", 
+            "name" : "Trà thái", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://media.cooky.vn/recipe/g3/24711/s800x500/recipe-cover-r24711.jpg", 
+                "http://imgs.vietnamnet.vn/Images/2016/11/30/09/20161130095859-2.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "Trà thái tự làm. an toàn, tự nhiên\nTrà được nhập từ Thái Nguyên, có giấy tờ nguồn gốc rõ ràng.", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:09:28.282Z", 
+            "updatedAt" : "2019-02-27T03:13:19.517Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb2413fdfa4791d1ce2a55c"), 
+            "name" : "", 
+            "status" : NumberInt(0), 
+            "time" : "1555185983"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb2413fdfa4791d1ce2a55d"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555185983"
+        }
+    ], 
+    "idUser" : "5ccd03f77ba7dc1384b1fe0a", 
+    "user" : {
+        "id" : "5cadcf809e9813025c5936a2", 
+        "name" : "Admin", 
+        "phone" : "1646867014", 
+        "email" : "admin@gmail.com", 
+        "type" : "1102", 
+        "role" : "admin", 
+        "address" : "Vũ thư", 
+        "password" : "11111111", 
+        "createdAt" : "2019-04-10T11:12:00.269Z", 
+        "updatedAt" : "2019-04-13T20:03:29.425Z"
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:21:25.699+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:21:25.699+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05457ba7dc1384b1fe1a"), 
+    "products" : [
+        {
+            "id" : "5c69aa921e322027b8f8e5df", 
+            "name" : "Nước cam ép", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://img.etimg.com/thumb/msid-64897098,width-643,imgsize-427655,resizemode-4/food-eat-junk-burger-pizza-chips-donut-thinkstockphotos-640211994.jpg", 
+                "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/12/Kati-Roll-1600x720.jpg"
+            ], 
+            "price" : "12000", 
+            "status" : NumberInt(0), 
+            "description" : "Nước cam ép", 
+            "category" : "drink", 
+            "highlight" : NumberInt(1), 
+            "createdAt" : "2019-02-17T18:40:18.702Z", 
+            "updatedAt" : "2019-02-17T18:40:18.702Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb241b3dfa4791d1ce2a55f"), 
+            "name" : "", 
+            "status" : NumberInt(1), 
+            "time" : "1555187652"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb241b3dfa4791d1ce2a560"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555186099"
+        }
+    ], 
+    "idUser" : "5ccd03d77ba7dc1384b1fe09", 
+    "user" : {
+        "id" : "5cadcf809e9813025c5936a2", 
+        "name" : "Admin", 
+        "phone" : "1646867014", 
+        "email" : "admin@gmail.com", 
+        "type" : "1121", 
+        "role" : "admin", 
+        "address" : "Vũ thư", 
+        "password" : "11111111", 
+        "createdAt" : "2019-04-10T11:12:00.269Z", 
+        "updatedAt" : "2019-04-13T20:06:23.483Z"
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:21:41.872+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:21:41.872+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05527ba7dc1384b1fe1d"), 
+    "products" : [
+        {
+            "id" : "5c7602254a1c88113c93a545", 
+            "name" : "Khoai chiên", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://media.cooky.vn/recipe/g3/26407/s800x500/recipe-cover-r26407.png"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "food", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:21:09.414Z", 
+            "updatedAt" : "2019-02-27T03:21:09.414Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb4bab95711a043e4c32ee2"), 
+            "name" : "", 
+            "status" : NumberInt(2), 
+            "time" : "1555661447"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb4bab95711a043e4c32ee3"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555348153"
+        }
+    ], 
+    "idUser" : "5ccd03f77ba7dc1384b1fe0a", 
+    "user" : {
+        "id" : "5cadcf809e9813025c5936a2", 
+        "name" : "Admin", 
+        "avatar" : "http://localhost:4000/upload/1555342294_aib.jpg", 
+        "phone" : "012315465", 
+        "email" : "admin@gmail.com", 
+        "type" : NumberInt(114), 
+        "role" : "admin", 
+        "address" : "HN", 
+        "password" : "11111111", 
+        "createdAt" : "2019-04-10T11:12:00.269Z", 
+        "updatedAt" : "2019-04-15T15:31:38.683Z"
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:21:54.902+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:21:54.902+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05627ba7dc1384b1fe20"), 
+    "products" : [
+        {
+            "id" : "5c76034e4a1c88113c93a548", 
+            "name" : "Nước dừa", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "http://baogialai.com.vn/dataimages/201706/original/images2544254_nuoc_dua_2_USPV.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:26:06.881Z", 
+            "updatedAt" : "2019-02-27T03:26:06.881Z", 
+            "amount" : NumberInt(1)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cb4bb3c5711a043e4c32ee5"), 
+            "name" : "", 
+            "status" : NumberInt(0), 
+            "time" : "1555348284"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cb4bb3c5711a043e4c32ee6"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1555348284"
+        }
+    ], 
+    "message" : "7545", 
+    "idUser" : "5ccd03d77ba7dc1384b1fe09", 
+    "user" : {
+        "id" : "5cadcf809e9813025c5936a2", 
+        "name" : "Admin223", 
+        "avatar" : "http://localhost:4000/upload/1555342294_aib.jpg", 
+        "phone" : "0123154654545", 
+        "email" : "admin@gmail.com", 
+        "type" : NumberInt(115), 
+        "role" : "admin", 
+        "address" : "HN", 
+        "password" : "11111111", 
+        "createdAt" : "2019-04-10T11:12:00.269Z", 
+        "updatedAt" : "2019-04-15T17:09:13.677Z", 
+        "message" : "7545"
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:22:10.517+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:22:10.517+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05737ba7dc1384b1fe23"), 
+    "products" : [
+        {
+            "id" : "5c75fe994a1c88113c93a542", 
+            "name" : "Trà sữa", 
+            "type" : [
+                "trân châu trắng", 
+                "trân châu đen"
+            ], 
+            "image" : [
+                "http://sohanews.sohacdn.com/2017/photo-1-1510561177365.jpg", 
+                "https://d303ny97lru840.cloudfront.net/k-57bd1aa7047c994a15e41aca/20180614-hoangvm14_0613/1444185153_thuc-uong-tra-suap.jpg"
+            ], 
+            "price" : "45000", 
+            "status" : NumberInt(0), 
+            "description" : "Trà sữa ngon mát với chân châu nguồn gốc hoàn toàn tự nhiên...\nThật tuyệt cho một ngày trời nắng nóng hay những buổi tụ tập bạn bè vui vẻ\nCòn chờ gì nữa mà không đặt hàng ^^", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "topBuy" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:06:01.866Z", 
+            "updatedAt" : "2019-04-19T08:09:37.563Z", 
+            "amount" : NumberInt(1), 
+            "typeSize" : [
+                {
+                    "name" : "trân châu trắng", 
+                    "status" : true
+                }, 
+                {
+                    "name" : "trân châu đen", 
+                    "status" : false
+                }
+            ]
+        }, 
+        {
+            "id" : "5c75fee54a1c88113c93a543", 
+            "name" : "Siro dâu tằm", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://blog.beemart.vn/wp-content/uploads/2016/05/cach-lam-nuoc-siro-dau-tam-vo-cung-don-gian-thanh-mat-12.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "topBuy" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:07:17.739Z", 
+            "updatedAt" : "2019-02-27T03:13:32.433Z", 
+            "amount" : NumberInt(2)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cc02f0bde97271028a9bfb8"), 
+            "name" : "", 
+            "status" : NumberInt(0), 
+            "time" : "1556098827"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cc02f0bde97271028a9bfb9"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1556098827"
+        }
+    ], 
+    "idUser" : "5ccd03f77ba7dc1384b1fe0a", 
+    "user" : {
+        "name" : "fdsfhhsdj", 
+        "phone" : "jdfjgkf", 
+        "address" : "fdjgkdfk", 
+        "email" : "jkfgkfd", 
+        "type" : NumberInt(117)
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:22:27.719+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:22:27.719+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ccd05827ba7dc1384b1fe26"), 
+    "products" : [
+        {
+            "id" : "5c75fee54a1c88113c93a543", 
+            "name" : "Siro dâu tằm", 
+            "type" : [
+
+            ], 
+            "image" : [
+                "https://blog.beemart.vn/wp-content/uploads/2016/05/cach-lam-nuoc-siro-dau-tam-vo-cung-don-gian-thanh-mat-12.jpg"
+            ], 
+            "price" : "15000", 
+            "status" : NumberInt(0), 
+            "description" : "", 
+            "category" : "drink", 
+            "highlight" : NumberInt(0), 
+            "topBuy" : NumberInt(0), 
+            "createdAt" : "2019-02-27T03:07:17.739Z", 
+            "updatedAt" : "2019-04-24T09:40:28.619Z", 
+            "amount" : NumberInt(2)
+        }
+    ], 
+    "keywords" : [
+        "object object", 
+        "5 cadcf 809 e 9813025 c 5936 a 2"
+    ], 
+    "statusOrder" : [
+        {
+            "_id" : ObjectId("5cc02f65de97271028a9bfbb"), 
+            "name" : "", 
+            "status" : NumberInt(0), 
+            "time" : "1556098917"
+        }
+    ], 
+    "statusShip" : [
+        {
+            "_id" : ObjectId("5cc02f65de97271028a9bfbc"), 
+            "name" : "", 
+            "status" : NumberInt(3), 
+            "time" : "1556098917"
+        }
+    ], 
+    "message" : "p0p0", 
+    "idUser" : "5ccd03d77ba7dc1384b1fe09", 
+    "user" : {
+        "name" : "p90p0", 
+        "phone" : "p0p0", 
+        "address" : "p0p0", 
+        "email" : "p0p0", 
+        "message" : "p0p0", 
+        "type" : NumberInt(118)
+    }, 
+    "createdAt" : ISODate("2019-05-04T03:22:42.323+0000"), 
+    "updatedAt" : ISODate("2019-05-04T03:22:42.323+0000"), 
+    "__v" : NumberInt(0)
+}
